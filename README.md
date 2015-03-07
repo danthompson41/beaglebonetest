@@ -1,2 +1,2 @@
 # beaglebonetest
-Testing git beaglebone tests 
+Testing uploading to Beagle Bone Black from git
